@@ -1,3 +1,8 @@
+---
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
+---
+
 日々の考え事をMarkdownで記述してインターネットに残しておくための場所。
 
 ## リンク
