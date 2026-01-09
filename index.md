@@ -1,6 +1,5 @@
 ---
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+title: Haze Lab.
 ---
 
 日々の考え事をMarkdownで記述してインターネットに残しておくための場所。
