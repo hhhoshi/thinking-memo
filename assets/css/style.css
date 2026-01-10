@@ -6,12 +6,10 @@ body {
   font-size: 16px;
   line-height: 1.8;
   margin: 4rem auto;
-}
-
-.markdownbody
-{
+  border-right: solid 2px;
+  border-left: solid 2px;
+  padding: 1em 2em;
   width: 50%;
-  margin: 0 auto;
 }
 
 a {
