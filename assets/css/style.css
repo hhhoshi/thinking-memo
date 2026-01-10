@@ -9,6 +9,12 @@ body {
   margin: 0 auto;
 }
 
+.markdownbody
+{
+  width: 50%;
+  margin: 0 auto;
+}
+
 a {
   color: #58a6ff;
 }
