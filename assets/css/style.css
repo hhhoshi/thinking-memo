@@ -2,6 +2,7 @@ body {
   background: #0d1117;
   color: #c9d1d9;
   font-size: 16px;
+  font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo",  sans-serif;
   line-height: 1.8;
   margin: 4rem auto;
   border-right: solid 2px;
@@ -19,9 +20,10 @@ pre, code {
 }
 
 /* スマホ */
-@media (max-width: 599px) {
+@media (max-width: 768px) {
   body {
     font-size: 0.8en;
     width: 100%;
+    font-family: "JetBrains Mono", "SFMono-Regular", "Consolas", monospace;
   }
 }
