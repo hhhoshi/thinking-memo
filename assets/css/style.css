@@ -17,3 +17,11 @@ a {
 pre, code {
   background: #161b22;
 }
+
+/* スマホ */
+@media (max-width: 599px) {
+  body {
+    font-size: 0.8en;
+    width: 100%;
+  }
+}
